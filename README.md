@@ -67,16 +67,16 @@ I love turning ideas into impactful applications 🚀
 
 ---
 
-# 🧠 Languages & Tools
+# 🧠 Languages and Tools
 
 ### 🔹 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,flask" />
 </p>
 
 ### 🔹 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### 🔹 Database
@@ -84,21 +84,15 @@ I love turning ideas into impactful applications 🚀
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🔹 Data Science
+### 🔹 Cloud Servers
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=firebase,aws" />
 </p>
 
-### 🔹 Tools & Platforms
+### 🔹 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </p>
-
-### 🔹 Analytics Tools
-- 📊 Power BI  
-- 📈 MS Excel  
-
----
 
 ### 🏆 Achievements
 
