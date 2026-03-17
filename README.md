@@ -213,3 +213,6 @@ AI-powered system combining Face, Voice, and Gesture authentication using CNN, M
 ---
 
 <p align="center">🔥 Designed & Built by Lokesh Jayanth</p>
+
+
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%" height="180">
