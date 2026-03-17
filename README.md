@@ -98,14 +98,20 @@ I love turning ideas into impactful applications 🚀
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Profile Summary
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LokeshJayanth&show_icons=true&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LokeshJayanth&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=LokeshJayanth&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LokeshJayanth&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LokeshJayanth&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LokeshJayanth&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LokeshJayanth&theme=tokyonight" />
 </p>
 
 ---
