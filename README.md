@@ -36,16 +36,16 @@ I love turning ideas into impactful applications 🚀
 </div>
 
 ---
-
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 👨‍💻 About Me
 
-- 🎓 M.Sc Data Science Student @ CIT  
-- 🤖 AI, ML & Deep Learning Enthusiast  
-- 📊 Data Analysis & Visualization  
-- 🚀 Building real-world AI projects  
-- 🌱 Learning **Advanced ML & NLP**  
+- 🔭 I’m currently open to a new job  
+- 🌱 I’m currently learning **Docker**  
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/LokeshJayanth)  
+- 💬 Ask me about **Python, AI, Machine Learning**  
+- 📫 How to reach me **lokeshjayanth1403@gmail.com**  
+- ⚡ Fun fact: **I love building AI systems 😄**
 
 ---
 
@@ -98,24 +98,6 @@ I love turning ideas into impactful applications 🚀
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 CIT Spark Grant 2025 Finalist  
-- 🥇 KRISHNECS 2K24 – 1st Place  
-- 📜 Python & Django Course (Udemy)  
-- 📜 AXIOS 2024 – PSG Tech  
-
----
-
-### 💼 Experience
-
-- 🎯 Rotaract Club – Event Management  
-- 📸 Executive Director – Photo Club  
-  - Increased engagement by 30%  
-  - Managed 10+ events  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -131,9 +113,23 @@ I love turning ideas into impactful applications 🚀
 ### 🌐 Connect with me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/lokeshjayanth03/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
+
+<a href="mailto:lokeshjayanth1403@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK">
+<img src="https://skillicons.dev/icons?i=facebook" width="40"/>
+</a>
+
 </p>
 
 ---
