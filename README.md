@@ -47,8 +47,7 @@ Passionate about building intelligent systems 🤖 and solving real-world proble
 - 📫 How to reach me **lokeshjayanth1403@gmail.com**  
 - ⚡ Fun fact: **I love building AI systems 😄**
 
----
-## 🚀 Featured Projects
+---## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -70,7 +69,7 @@ AI system using YOLOv8, Flask, and Firebase to detect fire, smoke, and emergenci
 <img src="https://img.shields.io/badge/Flask-black">
 <img src="https://img.shields.io/badge/Firebase-orange">
 
-<br><br><br>
+<br><br><br><br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -95,7 +94,7 @@ Computer vision system using ML + environmental data to analyze skin and give re
 <img src="https://img.shields.io/badge/TensorFlow-orange">
 <img src="https://img.shields.io/badge/Streamlit-red">
 
-<br><br><br>
+<br><br><br><br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -120,7 +119,7 @@ AI-powered system combining Face, Voice, and Gesture authentication using CNN, M
 <img src="https://img.shields.io/badge/MediaPipe-yellow">
 <img src="https://img.shields.io/badge/OpenCV-green">
 
-<br><br><br>
+<br><br><br><br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
