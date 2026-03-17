@@ -3,6 +3,9 @@
   <img src="ChatGPT Image Mar 17, 2026, 11_56_37p.png" />
 </p>
 
+<img align="left" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="10%">
+<img align="right" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="10%">
+
 <h1 align="center">Hi 👋, I'm Lokesh Jayanth</h1>
 <h3 align="center">🚀 Data Science Student | AI & ML Enthusiast</h3>
 
