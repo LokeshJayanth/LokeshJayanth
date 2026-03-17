@@ -114,20 +114,20 @@ I love turning ideas into impactful applications 🚀
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/lokeshjayanth03/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+<a href="https://www.linkedin.com/in/lokeshjayanth03/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="mailto:lokeshjayanth1403@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://skillicons.dev/icons?i=facebook" width="40"/>
+<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" width="50"/>
 </a>
 
 </p>
