@@ -111,28 +111,24 @@ Computer vision system using ML + environmental data to analyze skin and give re
 
 ### 🔐 Tri-Biometrix  
 **Biometric Security System**
-
-Face + Voice + Gesture authentication system powered by AI, combining **Computer Vision and Deep Learning** for secure real-time verification.
-
-<br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/CNN-DeepLearning-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/MediaPipe-Google-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge">
-</p>
+Face + Voice + Gesture authentication system using CNN, MediaPipe, and real-time verification.
 
 <br>
+
+<img src="https://img.shields.io/badge/CNN-blue">
+<img src="https://img.shields.io/badge/MediaPipe-yellow">
+<img src="https://img.shields.io/badge/OpenCV-green">
+
+<br><br><br>
 
 <a href="https://github.com/LokeshJayanth">
-<img src="https://img.shields.io/badge/🚀%20View%20Project-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
 
 </tr>
-</table>
-
+</table> 
 ---
 
 # 🧠 Languages and Tools
