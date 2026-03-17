@@ -216,3 +216,6 @@ AI-powered system combining Face, Voice, and Gesture authentication using CNN, M
 
 
 <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%" height="180">
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" height="180">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%" height="180">
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%" height="180">
