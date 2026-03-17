@@ -5,12 +5,12 @@
 <br>
 
 <h1>Hi 👋, I'm Lokesh Jayanth 🇮🇳</h1>
-<h3>A passionate Data Science Student from India</h3>
+<h3>A passionate Data Science Student</h3>
 
 </div>
 <p align="center">
 Passionate about building intelligent systems 🤖 and solving real-world problems using AI, Machine Learning, and Data Science.  
-I love turning ideas into impactful applications 🚀
+I love turning ideas into impactful applications 🚀- 🎯 Looking to apply my skills in real-world Data Science / AI projects through internships
 </p>
 
 <p align="center"> 
