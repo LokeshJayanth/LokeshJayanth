@@ -4,8 +4,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
-
 <h1>Hi 👋, I'm Lokesh Jayanth 🇮🇳</h1>
 <h3>A passionate Data Science Student from India</h3>
 
