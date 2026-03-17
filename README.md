@@ -55,7 +55,7 @@ I love turning ideas into impactful applications 🚀
 
 <td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" width="120">
 
 ### 🔥 EyeGuardian AI  
 **Emergency Detection System**
@@ -66,7 +66,7 @@ AI system using YOLOv8, Flask, and Firebase to detect fire, smoke, and emergenci
 <img src="https://img.shields.io/badge/Flask-black">
 <img src="https://img.shields.io/badge/Firebase-orange">
 
-<br>
+<br><br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -76,7 +76,7 @@ AI system using YOLOv8, Flask, and Firebase to detect fire, smoke, and emergenci
 
 <td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%">
+<img src="https://cdn-icons-png.flaticon.com/512/2965/2965567.png" width="120">
 
 ### ❤️ GlowGuard  
 **AI Skincare Analysis**
@@ -87,7 +87,7 @@ Computer vision system using ML + environmental data to analyze skin and give re
 <img src="https://img.shields.io/badge/TensorFlow-orange">
 <img src="https://img.shields.io/badge/Streamlit-red">
 
-<br>
+<br><br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -97,7 +97,7 @@ Computer vision system using ML + environmental data to analyze skin and give re
 
 <td width="33%" align="center">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
+<img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="120">
 
 ### 🔐 Tri-Biometrix  
 **Biometric Security System**
@@ -108,7 +108,7 @@ Face + Voice + Gesture authentication system using CNN, MediaPipe, and real-time
 <img src="https://img.shields.io/badge/MediaPipe-yellow">
 <img src="https://img.shields.io/badge/OpenCV-green">
 
-<br>
+<br><br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -117,7 +117,9 @@ Face + Voice + Gesture authentication system using CNN, MediaPipe, and real-time
 </td>
 
 </tr>
-</table>---
+</table>>
+
+---
 
 # 🧠 Languages and Tools
 
