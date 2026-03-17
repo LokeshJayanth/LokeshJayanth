@@ -3,18 +3,14 @@
   <img src="ChatGPT Image Mar 17, 2026, 11_56_37p.png" />
 </p>
 
-<!-- 🔥 HEADER (FIXED ALIGNMENT USING TABLE) -->
-<table width="100%">
-<tr>
+<div align="center">
 
-<td align="left">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="110">
-</td>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
 
-<td align="center">
-<h1>Hi 👋, I'm Lokesh Jayanth</h1>
-<h3>A passionate Data Science Student from India 🇮🇳</h3>
-</td>
+<h1>Hi 👋, I'm Lokesh Jayanth 🇮🇳</h1>
+<h3>A passionate Data Science Student from India</h3>
+
+</div>
 
 <td align="right">
 <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="80">
