@@ -48,70 +48,76 @@ I love turning ideas into impactful applications 🚀
 - ⚡ Fun fact: **I love building AI systems 😄**
 
 ---
-
-## 💡 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="33%">
-<h3>🔥 EyeGuardian AI</h3>
-<p><b>Emergency Detection System</b></p>
+<td width="33%" align="center">
 
-<p>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
+
+### 🔥 EyeGuardian AI  
+**Emergency Detection System**
+
 AI system using YOLOv8, Flask, and Firebase to detect fire, smoke, and emergencies with real-time alerts.
-</p>
 
-<p>
 <img src="https://img.shields.io/badge/YOLOv8-blue">
 <img src="https://img.shields.io/badge/Flask-black">
 <img src="https://img.shields.io/badge/Firebase-orange">
-</p>
 
-<a href="https://github.com/LokeshJayanth">🔗 Code</a>
+<br>
+
+<a href="https://github.com/LokeshJayanth">
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 
-<td width="33%">
-<h3>❤️ GlowGuard</h3>
-<p><b>AI Skincare Analysis</b></p>
+<td width="33%" align="center">
 
-<p>
+<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%">
+
+### ❤️ GlowGuard  
+**AI Skincare Analysis**
+
 Computer vision system using ML + environmental data to analyze skin and give recommendations.
-</p>
 
-<p>
 <img src="https://img.shields.io/badge/CNN-green">
 <img src="https://img.shields.io/badge/TensorFlow-orange">
 <img src="https://img.shields.io/badge/Streamlit-red">
-</p>
 
-<a href="https://github.com/LokeshJayanth">🔗 Code</a>
+<br>
+
+<a href="https://github.com/LokeshJayanth">
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 
-<td width="33%">
-<h3>🔐 Tri-Biometrix</h3>
-<p><b>Biometric Security System</b></p>
+<td width="33%" align="center">
 
-<p>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
+
+### 🔐 Tri-Biometrix  
+**Biometric Security System**
+
 Face + Voice + Gesture authentication system using CNN, MediaPipe, and real-time verification.
-</p>
 
-<p>
 <img src="https://img.shields.io/badge/CNN-blue">
 <img src="https://img.shields.io/badge/MediaPipe-yellow">
 <img src="https://img.shields.io/badge/OpenCV-green">
-</p>
 
-<a href="https://github.com/LokeshJayanth">🔗 Code</a>
+<br>
+
+<a href="https://github.com/LokeshJayanth">
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 
 </tr>
-</table>
-
----
+</table>---
 
 # 🧠 Languages and Tools
 
