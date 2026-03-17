@@ -49,23 +49,67 @@ I love turning ideas into impactful applications 🚀
 
 ---
 
-### 💡 Projects
+## 💡 Featured Projects
 
-#### 🔥 EyeGuardian – AI Emergency System
-- YOLOv8 fire/smoke detection  
-- Audio-based alerts  
-- Telegram + Email notifications  
-- Firebase logging  
+<table>
+<tr>
 
-#### ❤️ GlowGuard – AI Skincare
-- Computer Vision + ML  
-- Environmental data integration  
-- FastAPI + Streamlit  
+<td width="33%">
+<h3>🔥 EyeGuardian AI</h3>
+<p><b>Emergency Detection System</b></p>
 
-#### 🔐 Tri-Biometrix – Security System
-- Face + Voice + Gesture  
-- CNN + MediaPipe  
-- Real-time authentication  
+<p>
+AI system using YOLOv8, Flask, and Firebase to detect fire, smoke, and emergencies with real-time alerts.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-blue">
+<img src="https://img.shields.io/badge/Flask-black">
+<img src="https://img.shields.io/badge/Firebase-orange">
+</p>
+
+<a href="https://github.com/LokeshJayanth">🔗 Code</a>
+
+</td>
+
+<td width="33%">
+<h3>❤️ GlowGuard</h3>
+<p><b>AI Skincare Analysis</b></p>
+
+<p>
+Computer vision system using ML + environmental data to analyze skin and give recommendations.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/CNN-green">
+<img src="https://img.shields.io/badge/TensorFlow-orange">
+<img src="https://img.shields.io/badge/Streamlit-red">
+</p>
+
+<a href="https://github.com/LokeshJayanth">🔗 Code</a>
+
+</td>
+
+<td width="33%">
+<h3>🔐 Tri-Biometrix</h3>
+<p><b>Biometric Security System</b></p>
+
+<p>
+Face + Voice + Gesture authentication system using CNN, MediaPipe, and real-time verification.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/CNN-blue">
+<img src="https://img.shields.io/badge/MediaPipe-yellow">
+<img src="https://img.shields.io/badge/OpenCV-green">
+</p>
+
+<a href="https://github.com/LokeshJayanth">🔗 Code</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
