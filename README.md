@@ -3,13 +3,12 @@
   <img src="https://via.placeholder.com/1200x300.png?text=Lokesh+Jayanth+|+AI+Engineer" />
 </p>
 
-<!-- 👋 Intro -->
 <h1 align="center">Hi 👋, I'm Lokesh Jayanth</h1>
 <h3 align="center">🚀 Data Science Student | AI & ML Enthusiast</h3>
 
 <p align="center">
-Passionate about solving real-world problems using Data Science, Machine Learning, and AI 🤖  
-I enjoy extracting insights from data 📊 and building impactful applications 🚀
+Passionate about building intelligent systems 🤖 and solving real-world problems using AI, Machine Learning, and Data Science.  
+I love working on innovative projects and turning ideas into impactful solutions 🚀
 </p>
 
 <p align="center"> 
@@ -41,37 +40,74 @@ I enjoy extracting insights from data 📊 and building impactful applications �
 
 ### 👨‍💻 About Me
 
-- 🎓 M.Sc Data Science Student  
-- 🤖 Working on AI, ML & Deep Learning  
-- 🚀 Building real-world projects  
+- 🎓 M.Sc Data Science Student @ CIT  
+- 🤖 Working on AI, ML, Deep Learning  
+- 📊 Skilled in Data Analysis & Visualization  
+- 🚀 Building real-world AI projects  
 - 🌱 Currently learning **Advanced ML & NLP**  
 
 ---
 
 ### 💡 Projects
 
-- 🔥 GlowGuard – AI Skin Detection  
-- ❤️ Risk Prediction System  
-- 🤖 Emergency AI Voice Assistant  
+#### 🔥 EyeGuardian – AI Emergency Detection System
+- Real-time fire/smoke detection using YOLOv8n  
+- Audio-based emergency detection  
+- Telegram + Email alert system with location tracking  
+- Firebase logging system  
+
+#### ❤️ GlowGuard – AI Skincare Analysis
+- Detects skin type using Computer Vision  
+- Uses environmental data (UV, humidity, AQI)  
+- Built with FastAPI + Streamlit  
+
+#### 🔐 Tri-Biometrix – Biometric Security System
+- Face + Voice + Gesture authentication  
+- CNN + MediaPipe + MFCC  
+- Real-time verification system  
 
 ---
 
 ### 🛠️ Skills
 
-#### Backend
+#### Programming & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
-#### Frontend
+#### Libraries
+- NumPy, Pandas, Scikit-learn  
+
+#### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-#### Database
+#### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
+
+#### Other Skills
+- 📊 Power BI  
+- 📈 MS Excel  
+- 🎨 Dashboard Designing  
+
+---
+
+### 🏆 Achievements
+
+- 🥇 CIT Spark Grant 2025 Finalist  
+- 🥇 1st Place – KRISHNECS 2K24  
+- 📜 Python & Django Course (Udemy)  
+- 📜 AXIOS 2024 – PSG Tech  
+
+---
+
+### 💼 Experience
+
+- 🎯 Rotaract Club – Event Management  
+- 📸 Executive Director – Photo Club (30% growth in engagement)  
 
 ---
 
@@ -98,7 +134,7 @@ I enjoy extracting insights from data 📊 and building impactful applications �
 ---
 
 ### ⚡ Fun Fact
-😄 I love building AI projects and continuously learning new technologies!
+😄 I enjoy building AI systems that can actually help people in real life!
 
 ---
 
