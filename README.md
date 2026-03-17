@@ -111,7 +111,8 @@ AI-powered system combining Face, Voice, and Gesture authentication using CNN, M
 <img src="https://img.shields.io/badge/OpenCV-green">
 
 <br>
-</br>
+
+<br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
