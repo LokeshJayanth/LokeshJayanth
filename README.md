@@ -67,6 +67,7 @@ AI system using YOLOv8, Flask, and Firebase to detect fire, smoke, and emergenci
 <img src="https://img.shields.io/badge/Firebase-orange">
 
 <br>
+</br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -88,6 +89,7 @@ Computer vision system using ML + environmental data to analyze skin and give re
 <img src="https://img.shields.io/badge/Streamlit-red">
 
 <br>
+</br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
