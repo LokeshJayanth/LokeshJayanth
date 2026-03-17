@@ -3,11 +3,11 @@
   <img src="ChatGPT Image Mar 17, 2026, 11_56_37p.png" />
 </p>
 
-<img align="left" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="10%">
-<img align="right" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="10%">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="10%">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="10%">
 
 <h1 align="center">Hi 👋, I'm Lokesh Jayanth</h1>
-<h3 align="center">🚀 Data Science Student | AI & ML Enthusiast</h3>
+<h3 align="center">A passionate Data Science Student from India 🇮🇳</h3>
 
 <p align="center">
 Passionate about building intelligent systems 🤖 and solving real-world problems using AI, Machine Learning, and Data Science.  
