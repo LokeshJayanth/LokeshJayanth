@@ -123,7 +123,7 @@ Face + Voice + Gesture authentication system using CNN, MediaPipe, and real-time
 <br><br><br>
 
 <a href="https://github.com/LokeshJayanth">
-<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%" height="180">
 </a>
 
 </td>
