@@ -8,7 +8,7 @@
 
 <p align="center">
 Passionate about building intelligent systems 🤖 and solving real-world problems using AI, Machine Learning, and Data Science.  
-I love working on innovative projects and turning ideas into impactful solutions 🚀
+I love turning ideas into impactful applications 🚀
 </p>
 
 <p align="center"> 
@@ -17,7 +17,7 @@ I love working on innovative projects and turning ideas into impactful solutions
 
 ---
 
-<!-- ⚡ Tech Stack -->
+<!-- 🔥 Tech Stack Icons -->
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/>
@@ -35,70 +35,75 @@ I love working on innovative projects and turning ideas into impactful solutions
 
 ---
 
-<!-- 👨‍💻 About -->
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 👨‍💻 About Me
 
 - 🎓 M.Sc Data Science Student @ CIT  
-- 🤖 Working on AI, ML, Deep Learning  
-- 📊 Skilled in Data Analysis & Visualization  
+- 🤖 AI, ML & Deep Learning Enthusiast  
+- 📊 Data Analysis & Visualization  
 - 🚀 Building real-world AI projects  
-- 🌱 Currently learning **Advanced ML & NLP**  
+- 🌱 Learning **Advanced ML & NLP**  
 
 ---
 
 ### 💡 Projects
 
-#### 🔥 EyeGuardian – AI Emergency Detection System
-- Real-time fire/smoke detection using YOLOv8n  
-- Audio-based emergency detection  
-- Telegram + Email alert system with location tracking  
-- Firebase logging system  
+#### 🔥 EyeGuardian – AI Emergency System
+- YOLOv8 fire/smoke detection  
+- Audio-based alerts  
+- Telegram + Email notifications  
+- Firebase logging  
 
-#### ❤️ GlowGuard – AI Skincare Analysis
-- Detects skin type using Computer Vision  
-- Uses environmental data (UV, humidity, AQI)  
-- Built with FastAPI + Streamlit  
+#### ❤️ GlowGuard – AI Skincare
+- Computer Vision + ML  
+- Environmental data integration  
+- FastAPI + Streamlit  
 
-#### 🔐 Tri-Biometrix – Biometric Security System
-- Face + Voice + Gesture authentication  
-- CNN + MediaPipe + MFCC  
-- Real-time verification system  
+#### 🔐 Tri-Biometrix – Security System
+- Face + Voice + Gesture  
+- CNN + MediaPipe  
+- Real-time authentication  
 
 ---
 
-### 🛠️ Skills
+# 🧠 Languages & Tools
 
-#### Programming & Frameworks
+### 🔹 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=python,flask" />
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
 </p>
 
-#### Libraries
-- NumPy, Pandas, Scikit-learn  
+### 🔹 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-#### Databases
+### 🔹 Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-#### Tools
+### 🔹 Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-#### Other Skills
+### 🔹 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🔹 Analytics Tools
 - 📊 Power BI  
 - 📈 MS Excel  
-- 🎨 Dashboard Designing  
 
 ---
 
 ### 🏆 Achievements
 
 - 🥇 CIT Spark Grant 2025 Finalist  
-- 🥇 1st Place – KRISHNECS 2K24  
+- 🥇 KRISHNECS 2K24 – 1st Place  
 - 📜 Python & Django Course (Udemy)  
 - 📜 AXIOS 2024 – PSG Tech  
 
@@ -107,7 +112,9 @@ I love working on innovative projects and turning ideas into impactful solutions
 ### 💼 Experience
 
 - 🎯 Rotaract Club – Event Management  
-- 📸 Executive Director – Photo Club (30% growth in engagement)  
+- 📸 Executive Director – Photo Club  
+  - Increased engagement by 30%  
+  - Managed 10+ events  
 
 ---
 
@@ -134,8 +141,8 @@ I love working on innovative projects and turning ideas into impactful solutions
 ---
 
 ### ⚡ Fun Fact
-😄 I enjoy building AI systems that can actually help people in real life!
+😄 I love building AI systems that actually help people!
 
 ---
 
-<p align="center">🔥 Created with passion by Lokesh Jayanth</p>
+<p align="center">🔥 Designed & Built by Lokesh Jayanth</p>
