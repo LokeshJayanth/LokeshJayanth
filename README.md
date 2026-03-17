@@ -55,7 +55,7 @@ I love turning ideas into impactful applications 🚀
 
 <td width="33%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" width="120">
+<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="100%">
 
 ### 🔥 EyeGuardian AI  
 **Emergency Detection System**
@@ -76,7 +76,7 @@ AI system using YOLOv8, Flask, and Firebase to detect fire, smoke, and emergenci
 
 <td width="33%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2965/2965567.png" width="120">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
 
 ### ❤️ GlowGuard  
 **AI Skincare Analysis**
@@ -97,7 +97,7 @@ Computer vision system using ML + environmental data to analyze skin and give re
 
 <td width="33%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="120">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
 
 ### 🔐 Tri-Biometrix  
 **Biometric Security System**
@@ -117,7 +117,7 @@ Face + Voice + Gesture authentication system using CNN, MediaPipe, and real-time
 </td>
 
 </tr>
-</table>>
+</table>
 
 ---
 
