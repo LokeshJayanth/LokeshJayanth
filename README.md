@@ -2,22 +2,13 @@
 <p align="center">
   <img src="ChatGPT Image Mar 17, 2026, 11_56_37p.png" />
 </p>
+<img align="left" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
 
-<div align="center">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="10%">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
+<h1 align="center">Hi 👋, I'm Lokesh Jayanth</h1>
+<h3 align="center">A passionate Data Science Student from India 🇮🇳</h3>   
 
-<h1>Hi 👋, I'm Lokesh Jayanth 🇮🇳</h1>
-<h3>A passionate Data Science Student from India</h3>
-
-</div>
-
-<td align="right">
-<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="80">
-</td>
-
-</tr>
-</table>
 
 <p align="center">
 Passionate about building intelligent systems 🤖 and solving real-world problems using AI, Machine Learning, and Data Science.  
@@ -106,8 +97,6 @@ I love turning ideas into impactful applications 🚀
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </p>
-
----
 
 ### 🏆 Achievements
 
