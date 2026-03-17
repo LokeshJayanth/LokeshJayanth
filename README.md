@@ -47,29 +47,26 @@ Passionate about building intelligent systems 🤖 and solving real-world proble
 - 📫 How to reach me **lokeshjayanth1403@gmail.com**  
 - ⚡ Fun fact: **I love building AI systems 😄**
 
----## 🚀 Featured Projects
+---
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center">
 
 <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="100%" height="180">
-
-<br>
 
 ### 🔥 EyeGuardian AI  
 **Emergency Detection System**
 
 AI system using YOLOv8, Flask, and Firebase to detect fire, smoke, and emergencies with real-time alerts.
 
-<br>
-
 <img src="https://img.shields.io/badge/YOLOv8-blue">
 <img src="https://img.shields.io/badge/Flask-black">
 <img src="https://img.shields.io/badge/Firebase-orange">
 
-<br><br><br><br>
+<br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -77,24 +74,20 @@ AI system using YOLOv8, Flask, and Firebase to detect fire, smoke, and emergenci
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center">
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="180">
-
-<br>
 
 ### ❤️ GlowGuard  
 **AI Skincare Analysis**
 
 Computer vision system using ML + environmental data to analyze skin and give recommendations.
 
-<br>
-
 <img src="https://img.shields.io/badge/CNN-green">
 <img src="https://img.shields.io/badge/TensorFlow-orange">
 <img src="https://img.shields.io/badge/Streamlit-red">
 
-<br><br><br><br>
+<br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -102,24 +95,20 @@ Computer vision system using ML + environmental data to analyze skin and give re
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center">
 
 <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100%" height="180">
-
-<br>
 
 ### 🔐 Tri-Biometrix  
 **Biometric Security System**
 
-AI-powered system combining Face, Voice, and Gesture authentication using CNN and real-time verification.
-
-<br>
+AI-powered system combining Face, Voice, and Gesture authentication using CNN, MediaPipe, and real-time verification.
 
 <img src="https://img.shields.io/badge/CNN-blue">
 <img src="https://img.shields.io/badge/MediaPipe-yellow">
 <img src="https://img.shields.io/badge/OpenCV-green">
 
-<br><br><br><br>
+<br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -128,10 +117,7 @@ AI-powered system combining Face, Voice, and Gesture authentication using CNN an
 </td>
 
 </tr>
-</table>
-
-
----
+</table>---
 
 # 🧠 Languages and Tools
 
