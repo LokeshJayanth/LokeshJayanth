@@ -111,7 +111,8 @@ Computer vision system using ML + environmental data to analyze skin and give re
 
 ### 🔐 Tri-Biometrix  
 **Biometric Security System**
-Face + Voice + Gesture authentication system using CNN, MediaPipe, and real-time verification.
+
+AI-powered system combining Face, Voice, and Gesture authentication using CNN, MediaPipe, and real-time verification.
 
 <br>
 
@@ -128,7 +129,9 @@ Face + Voice + Gesture authentication system using CNN, MediaPipe, and real-time
 </td>
 
 </tr>
-</table> 
+</table>
+
+
 ---
 
 # 🧠 Languages and Tools
