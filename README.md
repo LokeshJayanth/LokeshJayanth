@@ -2,8 +2,8 @@
 <p align="center">
   <img src="ChatGPT Image Mar 17, 2026, 11_56_37p.png" />
 </p>
+<img align="left" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120">
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="10%">
 <img align="right" src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="10%">
 
 <h1 align="center">Hi 👋, I'm Lokesh Jayanth</h1>
