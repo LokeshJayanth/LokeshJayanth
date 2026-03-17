@@ -9,8 +9,9 @@
 
 </div>
 <p align="center">
-Passionate about building intelligent systems 🤖 and solving real-world problems using AI, Machine Learning, and Data Science.  
-I love turning ideas into impactful applications 🚀- 🎯 Looking to apply my skills in real-world Data Science / AI projects through internships
+Passionate about building intelligent systems 🤖 and solving real-world problems using AI, Machine Learning, and Data Science. I love turning ideas into impactful applications 🚀  
+
+🎯 Actively seeking internship opportunities to apply my skills in real-world Data Science and AI projects.
 </p>
 
 <p align="center"> 
