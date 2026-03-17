@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Lokesh+Jayanth+|+AI+Engineer" />
+  <img src="ChatGPT Image Mar 17, 2026, 11_56_37 AM.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Lokesh Jayanth</h1>
