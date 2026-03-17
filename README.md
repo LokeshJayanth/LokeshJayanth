@@ -1,12 +1,15 @@
-<!-- 🔥 HEADER (NO BANNER) -->
+<div align="center">
 
-<p align="center"> <img src="ChatGPT Image Mar 17, 2026, 11_56_37p.png" /> </p>
+<img src="ChatGPT Image Mar 17, 2026, 11_56_37p.png" width="100%">
+
+<br>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
 
 <h1>Hi 👋, I'm Lokesh Jayanth 🇮🇳</h1>
 <h3>A passionate Data Science Student from India</h3>
 
 </div>
-
 <p align="center">
 Passionate about building intelligent systems 🤖 and solving real-world problems using AI, Machine Learning, and Data Science.  
 I love turning ideas into impactful applications 🚀
