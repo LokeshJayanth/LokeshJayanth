@@ -106,11 +106,13 @@ Computer vision system using ML + environmental data to analyze skin and give re
 
 AI-powered system combining Face, Voice, and Gesture authentication using CNN, MediaPipe, and real-time verification.
 
+<br>
+
 <img src="https://img.shields.io/badge/CNN-blue">
 <img src="https://img.shields.io/badge/MediaPipe-yellow">
 <img src="https://img.shields.io/badge/OpenCV-green">
 
-<br>
+<br><br>
 
 <a href="https://github.com/LokeshJayanth">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github">
@@ -119,7 +121,8 @@ AI-powered system combining Face, Voice, and Gesture authentication using CNN, M
 </td>
 
 </tr>
-</table>---
+</table>
+---
 
 # 🧠 Languages and Tools
 
